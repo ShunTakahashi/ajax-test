@@ -1,0 +1,15 @@
+current directory: /Users/officedb_06/workspace/ajax_test/ajax_test/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/officedb_06/.rbenv/versions/2.6.5/bin/ruby -I /Users/officedb_06/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200731-54397-151ho1e.rb extconf.rb
+creating Makefile
+
+current directory: /Users/officedb_06/workspace/ajax_test/ajax_test/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/officedb_06/workspace/ajax_test/ajax_test/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/officedb_06/workspace/ajax_test/ajax_test/vendor/bundle/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200731-54397-od0na6/skiptrace/internal
